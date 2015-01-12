@@ -1,1 +1,3 @@
-webpack ./main.js ./bundle.js
+you need html-loader
+
+webpack

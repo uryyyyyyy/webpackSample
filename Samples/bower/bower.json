@@ -1,0 +1,19 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "authors": [
+    "shiba <koki305@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "~3.5.2",
+    "jquery": "~2.1.3"
+  }
+}
