@@ -1,3 +1,7 @@
-var math = require('./math');
+var $ = require('jquery');
+var _html = require('./template.html');
 
-alert('1 + 2 = ' + math.add(1, 2));
+$(function() {
+	console.log(_html);
+	$('#template').html(_html);
+});
